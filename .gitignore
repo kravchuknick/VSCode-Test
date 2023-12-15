@@ -1,0 +1,27 @@
+.CFUserTextEncoding
+.atom/
+.bash_history
+.bash_sessions/
+.cups/
+.gitconfig
+.lesshst
+.mongodb/
+.npm/
+.nvm/
+.profile
+.quokka/
+.viminfo
+.vscode/
+Applications/
+Desktop/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+Sites/
+Test/
+git\ Test/
+index.html
